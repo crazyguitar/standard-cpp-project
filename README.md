@@ -1,2 +1,2 @@
 # standard-cpp-project
-A standard sample of a modern C++ project.
+A sample of a standard modern C++ project.
